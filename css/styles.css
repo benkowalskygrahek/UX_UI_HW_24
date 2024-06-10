@@ -1,0 +1,278 @@
+
+
+<style>
+body {
+  font-family: Poppins;
+  background-color: #B1E1F8;
+}
+
+.navbar {
+  height: 90px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: linear-gradient(90deg, #6272D9, rgba(233, 52, 134, 0.10) 100%);
+  border: 0.50px #EA86FA solid;
+}
+
+.navbar-item {
+  color: white;
+  font-size: 40px;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 44px;
+  word-wrap: break-word;
+}
+
+.image {
+  position: absolute;
+}
+
+.image-greenhillswithwater {
+  width: 1079px;
+  height: 719px;
+  left: 179px;
+  top: 286px;
+}
+
+.image-bottomimage1 {
+  width: 1440px;
+  height: 897px;
+  left: 0px;
+  top: 2456px;
+}
+
+.image-yellowtransparentglow {
+  width: 927px;
+  height: 401px;
+  left: 283px;
+  top: 201px;
+}
+
+.container {
+  width: 299px;
+  height: 222px;
+  left: 580px;
+  top: 692px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 49px;
+  display: inline-flex;
+}
+
+.image-growu-orange {
+  width: 183px;
+  height: 309px;
+  left: 200px;
+  top: 538px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.image-image88 {
+  width: 183px;
+  height: 309px;
+  left: 362px;
+  top: 538px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.image-image86 {
+  width: 221px;
+  height: 340px;
+  right: 25%;
+  top: 538px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.image-image84 {
+  width: 221px;
+  height: 340px;
+  right: 45%;
+  top: 338px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.image-asset1 {
+  width: 385px;
+  height: 229px;
+  left: 195px;
+  top: 267px;
+  position: absolute;
+  filter: blur(4px);
+}
+
+.image-asset7 {
+  width: 384px;
+  height: 229px;
+  left: 825px;
+  top: 172px;
+  position: absolute;
+  filter: blur(4px);
+}
+
+.container2 {
+  height: 385px;
+  left: 526px;
+  top: 2495px;
+  position: absolute;
+}
+
+.container3 {
+  width: 388px;
+  height: 346px;
+  left: 0px;
+  top: 39px;
+  position: absolute;
+}
+
+.container4 {
+  width: 96px;
+  height: 96px;
+  left: 146px;
+  top: 32px;
+  position: absolute;
+  background: #E0E0E0;
+  border-radius: 8px;
+}
+
+.container5 {
+  height: 623px;
+  left: 369px;
+  top: 1040px;
+  position: absolute;
+}
+
+.container6 {
+  width: 1056px;
+  height: 576px;
+  left: 0px;
+  top: 47px;
+  position: absolute;
+  border-radius: 24px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: inline-flex;
+}
+
+.container7 {
+  width: 845px;
+  height: 119px;
+  left: 18px;
+  top: 0px;
+  position: absolute;
+}
+
+.container8 {
+  width: 326px;
+  height: 546px;
+  left: 8px;
+  top: 1100px;
+  position: absolute;
+}
+
+.image-placeholder {
+  width: 326px;
+  height: 546px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: linear-gradient(0deg, #C4C4C4 0%, #C4C4C4 100%);
+  border-radius: 8px;
+}
+
+.container9 {
+  width: 326px;
+  height: 546px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(28, 69, 28, 0) 0%, black 100%);
+  border-radius: 8px;
+}
+
+.container10 {
+  width: 278px;
+  height: 55px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 76px;
+  padding-right: 77px;
+  left: 24px;
+  top: 467px;
+  position: absolute;
+  background: #F2994A;
+  border-radius: 8px;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+
+.container11 {
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 22.40px;
+  word-wrap: break-word;
+}
+
+.container12 {
+  width: 278px;
+  height: 126px;
+  left: 24px;
+  top: 317px;
+  position: absolute;
+}
+
+.container13 {
+  left: 12px;
+  top: 2362px;
+  position: absolute;
+  color: #6272D9;
+  font-size: 56px;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 61.60px;
+  word-wrap: break-word;
+}
+
+
+@media (max-width: 767px) {
+    body {
+      font-size: 14px;
+    }
+  
+    nav {
+      height: 60px;
+      width: 100%;
+    }
+  
+    img {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+  
+    div {
+      width: 100%;
+      left: 0;
+      top: 0;
+      position: relative;
+    }
+  
+    footer {
+      height: 100px;
+      background-color: #f2f2f2;
+    }
+  }
